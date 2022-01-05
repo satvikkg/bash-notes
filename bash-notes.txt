@@ -1,10 +1,38 @@
-##What is Shell ?
+What is Shell ?
 Shell is an outer layer arounds the OS. Takes our commands and gives it to os to perform.
 
-##What is a terminal ?
+What is a terminal ?
 Software that run shell. eg BASH (Born Again SHell), FISH etc.  
-Default shell for ubuntu is bash and is the most popular. 
+Default shell for ubuntu is bash and is the most popular.
 
+#whoami
+command: whoami
+prints username of the user
+
+#man
+command: man x
+x is for what command you want the manual for 
+manual pages for commands
+eg man whoami
+
+if the man command is not working add the following line in the '.bashrc' file.
+export MANPATH=/usr/share/man
+
+#clear
+command: clear
+shortcut: ctrl+l
+clears the terminal
+
+command: clear -x
+clears the terminal but history can still be scrolled
+
+#pwd
+command: pwd
+prints the current working directory
+
+#ls
+command: ls
+prints the contents of a folder/directory
 
 
 
