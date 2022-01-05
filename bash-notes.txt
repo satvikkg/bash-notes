@@ -34,6 +34,21 @@ prints the current working directory
 command: ls
 prints the contents of a folder/directory
 
+command: ls -R
+prints out the contents of a folder/directory and subdirectories
+
+#du
+command: du
+prints the size of files in the folder
+
+command: du -h
+prints the size of files and folders in a directory and gives the total size of the current directory.
+
+command: du -sh
+prints the size of the current directory.
+
+
+
 
 
 
