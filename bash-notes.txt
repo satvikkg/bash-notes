@@ -1,0 +1,11 @@
+##What is Shell ?
+Shell is an outer layer arounds the OS. Takes our commands and gives it to os to perform.
+
+##What is a terminal ?
+Software that run shell. eg BASH (Born Again SHell), FISH etc.  
+Default shell for ubuntu is bash and is the most popular. 
+
+
+
+
+
