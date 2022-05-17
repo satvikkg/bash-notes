@@ -47,7 +47,8 @@ prints the size of files and folders in a directory and gives the total size of 
 command: du -sh
 prints the size of the current directory.
 
-
+# To cat very large number of files:
+for f in *.txt; do cat "$f" >> group.txt; done
 
 
 
