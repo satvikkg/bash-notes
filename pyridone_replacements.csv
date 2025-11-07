@@ -1,0 +1,95 @@
+Original_SMILES,Product_SMILES,Similarity,Reaction_SMARTS,DOI
+*c1ccc[nH]c1=O,*c1nc[nH]c2nccc1-2,0.2121,O=[c:8]1[c:4][c:2][c:1][c:6][nH:7]1>>[c:1]1[c:2][c]2[c:4][n][c:6][nH:7][c:8]-2[n]1,https://doi.org/10.1016/j.ejmech.2023.115942
+*c1ccc[nH]c1=O,*c1ccc2cccnc2n1,0.1818,O=[c:4]1[c:6][c:10][c:1][c:2][nH]1>>[c:1]1[c:2][n][c:4]2[n][c:6][c][c][c]2[c:10]1,https://doi.org/10.1016/j.ejmech.2023.115942
+*c1ccc[nH]c1=O,*c1cnc[nH]c1=O,0.3846,[*:1][c:2]1[c:7]c[c:5][n:4][c:3]1>>[*:1][c:2]1[c:3][n:4][c:5][n][c:7]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1cnc(N)[nH]c1=O,0.2667,[*:1][c:2]1[c:8]c[c:5][n:4][c:3]1>>[*:1][c:2]1[c:3][n:4][c:5]([N])[n][c:8]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1c[nH][nH]c1=O,0.32,[*:1][c:2]1[c:6]cc[n:4][c:3]1>>[*:1][c:2]1[c:3][n:4][nH][c:6]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCC(C(=O)OC(C)=O)CC1,0.0513,[*:1][c:6]1[c:5][c:4][c:3][n:2][c:9]1>>[*:1][N:2]1[C:3][C:4][C:5]([C:6](=[O])[O][C:9][C])[C][C]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1cccc(=O)[nH]1,0.36,[*:1][c:2]1[c:3][c:4][c:5][n:7][c:6]1>>[*:1][c:2]1[c:3][c:4][c:5][c:6][n:7]1,https://doi.org/10.1016/j.ejmech.2019.112022
+*c1ccc[nH]c1=O,*c1ccc[nH]c1=O,1,[c:1]1[c:2][c:3][n:4][c:5][c:6]1>>[c:1]1[c:2][c:3][n:4][c:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00026
+*c1ccc[nH]c1=O,*c1ccc(C)[nH]c1=O,0.3846,[c:4]1[c:1][c:2][n:7][c:6][c:5]1>>[C:1][c:2]1[c][c:4][c:5][c:6][n:7]1,https://doi.org/10.1021/acs.jmedchem.1c01670
+*c1ccc[nH]c1=O,*COc1cccc[n+]1[O-],0.1714,[c:1]1[c:2][n:3][c:4][c:5][c:6]1 >> [c](-[O]-[C:1])1[n:2][c:3][c:4][c:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*COc1c(C(F)(F)F)ccc[n+]1[O-],0.119,[c:1]1[c:2][n:3][c:4][c:5][c:6]1 >> [c](-[O]-[C:1])1[n:2][c:3][c:4][c:5][c:6](-[C](-[F])(-[F])-[F])1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*S1=CC=CC1=O,0.1724,[c:1]1[c:2][n:3][c:4][c:5][c]1 >> [s:1]1[c:2][c:3][c:4][c:5]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*c1cccc[n+]1[O-],0.25,[c:1]1[c:2][c:3][n:4][c:5][c:6]1 >> [c:1]1[c:2][c:3][c:4][n:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00026
+*c1ccc[nH]c1=O,*c1ccnc(N)[n+]1[O-],0.1471,[c:1]1[c:2][c:3][n:4][c:5][c:6]1 >> [c:1]1[c:2][n:3][c:4](-[N])[n:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00026
+*c1ccc[nH]c1=O,*c1ccnc[n+]1[O-],0.1935,[c:1]1[c:2][c:3][n:4][c:5][c]1 >>[c:1]1[c:2][n:3][c:4][n:5][c]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*c1ccn[nH]c1=O,0.3846,[c:1]1[c:2][c:3][n:4][c:5][c:6]1 >> [c:1]1[c:2][n:3][n:4][c:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00652
+*c1ccc[nH]c1=O,*c1ncc[nH]c1=O,0.4231,[c:1]1[c:2][c:3][n:4][c:5][c:6]1 >> [n:1]1[c:2][c:3][n:4][c:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00962
+*c1ccc[nH]c1=O,*c1nnc[nH]c1=O,0.3214,[c:1]1[c:2][c:3][n:4][c:5][c:6]1 >> [n:1]1[n:2][c:3][n:4][c:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.1c01215
+*c1ccc[nH]c1=O,*c1cc[nH]c(=O)n1,0.3704,[*:1][c:2]1[c:3][c:4]c[n:5][c:6]1>>[*:1][c:2]1[c:3][c:4][n:5][c:6][n]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCNCC1=O,0.1562,[*:1][c:2]1[c:3][c][c:5][n:6][c:7]1>>[*:1][N:6]1[C:7][C:2]N[C:3][C:5]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1nccc(=O)[nH]1,0.2857,[*:1][c:2]1[c][c:4][c:5][n:6][c:7]1>>[*:1][c:2]1n[c:4][c:5][c:7][n:6]1,https://doi.org/10.1016/j.ejmech.2024.116627
+*c1ccc[nH]c1=O,*c1cnn[nH]1,0.1786,[*:1][c:2]1[c:3][c][c][nH:6][c]1=[O]>>[*:1][c:2]1[c:3]nn[nH:6]1,https://doi.org/10.1016/j.ejmech.2023.115979
+*c1ccc[nH]c1=O,*c1cc[nH]c(=O)c1,0.4,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][c:2]1[c:3][c:7][n:6][c:5][c:4]1,https://dx.doi.org/10.1021/acs.jmedchem.1c00034
+*c1ccc[nH]c1=O,*c1ccc(C=O)s1,0.2,[*:1][c:2]1[c:3][c:4][c:5][n][c:7]1>>[*:1][c:2]1[c:3][c:4][c:5]([C:7])s1,https://doi.org/10.1021/acs.jmedchem.1c02169
+*c1ccc[nH]c1=O,*c1ccc(C=O)o1,0.2,[*:1][c:2]1[c:3][c:4][c:5][n][c:7]1>>[*:1][c:2]1[c:3][c:4][c:5]([C:7])o1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(C(=O)OC)CC1=O,0.1,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][N:6]1[C:7][C:3]N(C(=O)O[C:2])[C:4][C:5]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCSCC1=O,0.1212,[*:1][c:2]1[c:3][c][c:5][n:6][c:7]1>>[*:1][N:6]1[C:7][C:2]S[C:3][C:5]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCCCCC1=O,0.125,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][N:6]1[C:5][C:4][C:3][C:2]C[C:7]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCCC(C)C1=O,0.1143,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][N:6]1[C:5][C:4][C:3][C:2](C)[C:7]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(c2cc[nH]c(=O)c2)CC1,0.2571,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1]N1CCN([c:2]2[c:3][c:7][n:6][c:5][c:4]2)CC1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCC(C=O)CC1,0.0606,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][N:6]1[C:4][C:3][C:2]([C:7])C[C:5]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*n1cc[nH]c1=O,0.2963,[*:1][c:2]1[c:3][c][c][n:6][c:7]1>>[*:1]n1[c:3][c:2][n:6][c:7]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*C1(S(C)(=O)=O)C=CC=CC1=O,0.1429,[n:1]1[c:2][c:3][c:4][c:5][c:6]1>>[c:1]1[c:2][c:3](-[S](=[O])(=[O])-[C])[c:4][c:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*c1ccccc1NS(=O)(=O)C=O,0.3125,[c:1]1[c:2][n:3][c:4][c:5][c:6]1>>[c:1]1[c](-[N]-[S](=[O])(=[O])-[C:2])[c:3][c:4][c:5][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*c1nn[nH][n+]1[O-],0.129,[c:1]1[n:2][c:3][c:4][c:5][c]1>>[n:1]1[n:2][n:3][c:4][n:5]1,https://doi.org/10.1021/acs.jmedchem.4c00962
+*c1ccc[nH]c1=O,*C12C=CC=CC1=CC=CC2=O,0.1389,[n:1]1[c:2][c:3][c:4][c:5][c:6]1>>[c:1]1[c:2][c:3]2[c][c][c][c][c:4]2[c:5][c:6]1,https://doi.org/10.26434/chemrxiv.13525457
+*c1ccc[nH]c1=O,*c1cc2ccccc2[nH]c1=O,0.3333,[*:1]-[c:2]1[c:7][c:6][c:5][n:4][c:3]1>>[*:1]-[c:2]1[c:3][n:4][c]2[c:5][c][c:6][c][c]2[c:7]1,https://doi.org/10.1021/acs.jmedchem.0c01826
+*c1ccc[nH]c1=O,*N1CCOCC1=O,0.1212,[*:1]-[c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1]-[N:2]-1-[C:3]-[C:4]-[O:5]-[C:6]-[C:7]1,https://doi.org/10.1021/acs.jmedchem.0c01549
+*c1ccc[nH]c1=O,*n1[nH]ccc1=O,0.2963,[*:1][c:2]1[c][c][c:5][n:6][c:7]1>>[*:1]n1[c:7][c:2][c:5][n:6]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*C1CCCOC1=O,0.1212,[*:1][c:2]1[c:3][c:4][c:5][n][c:7]1>>[*:1][C:2]1[C:3][C:4][C:5]O[C:7]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*C12CC3CC(CC(C3)C1=O)C2,0.1176,[*:1][c:2]1[c:3][c:4][c:5][n][c:7]1>>[*:1][C:2]12CC3CC([C:5][C:4](C3)[C:3]1)[C:7]2,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1cc2ccc[nH]c-2cc1=O,0.4483,[*:1][c:2]1[c:9][c:8][c:7][n:6][c:3]1>>[*:1][c:2]1[c:3][c][c]2[n:6][c:7][c:8][c:9][c]2[c]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1cccc(C(C)=O)c1,0.2188,[*:1][c:2]1[c:9][c:3][c:5]n[c:7]1>>[*:1][c:2]1[c:3][c][c:5][c]([C:7][C])[c:9]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1ccc2[nH][nH]cc-2c1=O,0.25,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:10]1>>[*:1][c:2]1[c:3][c:4][c:5]2[n:6][nH][c][c]2[c:10]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1cc2cc[nH]c2[nH]c1=O,0.3667,[*:1][c:2]1[c:10][c:9][c:5][n:4][c:3]1>>[*:1][c:2]1[c:3][n:4][c:5]2[nH][c][c][c:9]2[c:10]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1cc(N)c[nH]c1=O,0.3704,[*:1][c:2]1[c:8][c:6][c:5][n:4][c:3]1>>[*:1][c:2]1[c:3][n:4][c:5][c:6]([N])[c:8]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1ccc(C(=O)O)o1,0.1935,[*:1][c:2]1[c:3][c:4][c:5]n[c:6]1>>[*:1][c:2]1[c:3][c:4][c:5]([C:6][O])[o]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1c[nH]n(C2CCNCC2)c1=O,0.2222,[*:1][c:2]1[c:3][c:6][c:8][n:4][c:12]1>>[*:1][c:2]1[c:3][n:4][n]([C:6]2[C][C:8][N][C][C]2)[c:12]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1ccc(C(C)=O)o1,0.1875,[*:1][c:2]1[c:3][c:4][c:5]n[c:6]1>>[*:1][c:2]1[c:3][c:4][c:5]([C:6][C])[o]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1ccccc1C(=O)N(C)C,0.2903,[*:1][c:2]1[c:3][c:4][c:10][n:9][c:8]1>>[*:1][c:2]1[c:3][c:4][c][c][c]1[C:8][N:9]([C:10])[C],https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1cc(CO)c[nH]c1=O,0.3448,[*:1][c:2]1[c:7][c:6][c:5][n:4][c:3]1>>[*:1][c:2]1[c:3][n:4][c:5][c:6]([C:7][O])[c]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCC(O)C1=O,0.1562,[*:1][c:5]1[c:4]c[c:3][n:2][c:7]1>>[*:1][N:2]1[C:3][C:4][C:5]([O])[C:7]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(C2CCCCC2)CC1=O,0.1026,[*:1][c:6]1[c:7][c:8][c:9][n:2][c:3]1>>[*:1][N:2]1[C:3][C][N]([C:6]2[C:7][C:8][C:9][C][C]2)[C][C]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(c2ccccn2)CC1=O,0.1707,[*:1][c:6]1[c:7][c:8][c:9][n:2][c:3]1>>[*:1][N:2]1[C:3][C][N]([c:6]2[c:7][c:8][c:9][c][n]2)[C][C]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(CCCC)CC1=O,0.1,[*:1][c:4]1[c:8][c:7][c:6][n:2][c:3]1>>[*:1][N:2]1[C:3][C:4][N]([C:6][C:7][C:8][C])[C][C]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(C(=O)OC=O)CC1,0.0526,[*:1][c:6]1[c:10][c:4][c:3][n:2][c:9]1>>[*:1][N:2]1[C:3][C:4][N]([C:6](=[O])[O][C:9])[C:10][C]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(C(=O)C2CC2)CC1=O,0.1,[*:1][c:6]1[c:8][c:9][c:4][n:2][c:3]1>>[*:1][N:2]1[C:3][C:4][N]([C:6](=[O])[C:8]2[C:9][C]2)[C][C]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CC(C)CC(C)C1=O,0.1471,[*:1][c:4]1[c:5][c:6][c:9][n:2][c:3]1>>[*:1][N:2]1[C:3][C:4]([C:5])[C:6][C]([C])[C:9]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(C(=O)CCCC)CC1,0.05,[*:1][c:7]1[c:8][c:9][c:3][n:2][c:6]1>>[*:1][N:2]1[C:3][C][N]([C:6][C:7][C:8][C:9][C])[C][C]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCCC(CO)C1=O,0.1351,[*:1][c:6]1[c:7][c:4][c:3][n:2][c:9]1>>[*:1][N:2]1[C:3][C:4][C][C:6]([C:7][O])[C:9]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCS(=O)CC1=O,0.1176,[*:1][c:4]1c[c:7][c:8][n:2][c:3]1>>[*:1][N:2]1[C:3][C:4][S](=[O])[C:7][C:8]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCC(C(=O)N(C)C=O)CC1,0.0488,[*:1][c:6]1[c:5][c:4][c:3][n:2][c:9]1>>[*:1][N:2]1[C:3][C:4][C:5]([C:6](=[O])[N]([C:9])[C])[C][C]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCCC1=O,0.1333,[*:1][c:2]1[c][c:4][c:5][n:6][c:7]1>>[*:1][N:6]1[C:5][C:4][C:2][C:7]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCC=CC1=O,0.1562,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][N:6]1[C:7][C:2]=[C:3][C:4][C:5]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*N1CCN(C(C)C)CC1=O,0.1111,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][N:6]1[C:7]CN([C:2]([C:3])C)[C:4][C:5]1,https://doi.org/10.1016/j.ejmech.2022.114483
+*c1ccc[nH]c1=O,*c1ccn(C=O)n1,0.1875,[*:1][c:2]1[c:3]c[c:4][n:5][c:6]1>>[*:1][c:2]1[c:3][c:4][n:5]([C:6])[n]1,https://doi.org/10.1021/acs.jmedchem.1c01215
+*c1ccc[nH]c1=O,*c1cccc2c(=O)[nH]ccc12,0.5385,[*:1][c:2]1[c:3][c:10][c:9][n:8][c:7]1>>[*:1][c:2]1[c:3][c][c][c]2[c:7][n:8][c:9][c:10][c]12,https://doi.org/10.1016/j.ejmech.2021.113392
+*c1ccc[nH]c1=O,*c1ccc(OC)[nH]c1=O,0.3448,[*:1][c:2]1[c:3][c:4][c:5][n:8][c:9]1>>[*:1][c:2]1[c:3][c:4][c:5]([O][C])[n:8][c:9]1,https://doi.org/10.1021/acs.jmedchem.1c01215
+*c1ccc[nH]c1=O,*C1CCCNC1=O,0.1562,[c:1]1[c:2][c:3][n:4][c:5][c:6]1>>[C:1]1[C:2][C:3][N:4][C:5][C:6]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*C1CCCC1=O,0.1333,[c:1]1[c:2][c:3]n[c:4][c:5]1>>[C:1]1[C:2][C:3][C:4][C:5]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*c1ccc2cc[nH]c(=O)c2c1,0.4,[*:1][c:2]1[c:11][c:3][c:7][n:8][c:9]1>>[*:1][c:2]1[c:3][c][c]2[c][c:7][n:8][c:9][c]2[c:11]1,https://doi.org/10.1021/acs.jmedchem.2c01349
+*c1ccc[nH]c1=O,*c1ccc(-c2ccc[nH]c2=O)cc1,0.5556,[*:1][c:6]1[c:2][c:8][c:9][n:10][c:11]1>>[*:1][c:2]1[c][c][c](-[c:6]2[c][c:8][c:9][n:10][c:11]2)[c][c]1,https://doi.org/10.1021/acs.jmedchem.2c01349
+*c1ccc[nH]c1=O,*C1OCCNC1=O,0.1515,c1[c:2][c:1][n:6][c:5][c:4]1>>[C:1]1[C:2][O][C:4][C:5][N:6]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*c1c(C2CCCC2)cc(C)[nH]c1=O,0.2162,[O:12]=[c:11]1[c:10][c:1][c:3][c:2][nH:13]1>>[C:1][c:2]1[c:3][c]([C]2[C][C][C][C]2)[c:10][c:11](=[O:12])[nH:13]1,https://doi.org/10.1021/acs.jmedchem.2c00047
+*c1ccc[nH]c1=O,*c1c(CCC)c(C)c[nH]c1=O,0.2571,[O:7]=[c:6]1[c:5][c:1][c:10][c:9][nH:8]1>>[C:1][C][C][c]1[c:5][c:6](=[O:7])[nH:8][c:9][c:10]1[C],https://doi.org/10.1021/acs.jmedchem.2c00047
+*c1ccc[nH]c1=O,*C1CCC(F)(F)CC1=O,0.1176,[*:1][c:2]1[c:9][c:8][c:5]n[c:3]1>>[*:1][C:2]1[C:3][C][C:5]([F])([F])[C:8][C:9]1,https://dx.doi.org/10.1021/acs.jmedchem.1c00034
+*c1ccc[nH]c1=O,*C(=O)c1ccccc1,0.2222,[*:1][c:3]1[c:4][c:5][c:6]n[c:2]1>>[*:1][C:2][c:3]1[c:4][c:5][c:6][c][c]1,https://dx.doi.org/10.1021/acs.jmedchem.0c00161
+*c1ccc[nH]c1=O,*c1c[nH]n(C(C)C)c1=O,0.2188,[*:1][c:2]1[c:3][c:7][c:6][n:4][c:9]1>>[*:1][c:2]1[c:3][n:4][n]([C:6]([C:7])[C])[c:9]1,https://doi.org/10.1021/acs.jmedchem.1c01215
+*c1ccc[nH]c1=O,*c1c[nH]n(C(C)(C)C)c1=O,0.2188,[*:1][c:2]1[c:3][c:7][c:6][n:4][c:10]1>>[*:1][c:2]1[c:3][n:4][n]([C:6]([C:7])([C])[C])[c:10]1,https://doi.org/10.1021/acs.jmedchem.1c01215
+*c1ccc[nH]c1=O,*c1c[nH]ccc1=O,0.3462,[O:1]=[c:2]1[c:3][c:4][c:7][c:6][nH:5]1>>[O:1]=[c:2]1[c:3][c:4][nH:5][c:6][c:7]1,https://doi.org/10.1021/acs.jmedchem.1c01215
+*c1ccc[nH]c1=O,*c1ncn[nH]1,0.1786,[*:1][c:2]1[c:3][c][c][nH:6][c]1=[O]>>[*:1][c:2]1n[c:3]n[nH:6]1,https://doi.org/10.1021/acs.jmedchem.1c00692
+*c1ccc[nH]c1=O,*c1nnn[nH]1,0.1429,[*:1][c:2]1[c][c][c][nH:6][c]1=[O]>>[*:1][c:2]1nnn[nH:6]1,https://dx.doi.org/10.1021/acs.jmedchem.9b01865
+*c1ccc[nH]c1=O,*c1cccn1C=O,0.2414,[c:1]1[c:2][c:3][n:4][c:5][c:6]1>>[C:5][n:4]1[c:3][c:2][c:1][c:6]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*c1cc(C(=O)O)c[nH]c1=O,0.3333,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][c:2]1[c:7][n:6][c:5][c:4](C(=O)O)[c:3]1,https://doi.org/10.1021/acs.jmedchem.2c01349
+*c1ccc[nH]c1=O,*c1c(C)[nH]c(C)cc1=O,0.2258,[O:1]=[c:2]1[c:3][c:4][c:5][c:6][nH:7]1>>C[c:4]1[c:3][c:2](=[O:1])[c:5][c:6](C)[nH:7]1,https://doi.org/10.1021/acs.jmedchem.2c00047
+*c1ccc[nH]c1=O,*c1c(CCN(C)C)cc2n(c1=O)NCC2,0.1739,[O:1]=[c:2]1[c:3][c:4][c:5][c:6][nH:7]1>>CN(C)CC[c:4]1[c:5][c:6]2[n:7]([c:2](=[O:1])[c:3]1)NCC2,https://doi.org/10.1021/acs.jmedchem.2c00047
+*c1ccc[nH]c1=O,*c1c(SC)cc(C)[nH]c1=O,0.2727,[O:1]=[c:2]1[c:3][c:4][c:5][c:6][nH:7]1>>CS[c:4]1[c:5][c:6](C)[nH:7][c:2](=[O:1])[c:3]1,https://doi.org/10.1021/acs.jmedchem.2c00047
+*c1ccc[nH]c1=O,*c1cc2ccccc2c(=O)[nH]1,0.3226,[*:1][c:2]1[c:3][c:4][c:5][n:6][c:7]1>>[*:1][c:2]1[c:3][c:4]2[c:5]cccc2[c:7][n:6]1,https://doi.org/10.1021/acs.jmedchem.0c01826
+*c1ccc[nH]c1=O,*C1CCC(=O)O1,0.1667,[*:1][c:2]1[c:3][c:4][c][n][c:7]1>>[*:1][C:2]1[C:3][C:4][C:7]O1,https://doi.org/10.1021/acs.jmedchem.1c01215
+*c1ccc[nH]c1=O,*C1CCOC1=O,0.129,[*:1][c:2]1[c:3][c:4][c][n][c:7]1>>[*:1][C:2]1[C:3][C:4]O[C:7]1,https://dx.doi.org/10.1021/acs.jmedchem.9b02153
+*c1ccc[nH]c1=O,*C1CCC1=O,0.1481,[*:1][c:2]1[c:3][c:4][c][n][c:7]1>>[*:1][C:2]1[C:3][C:4][C:7]1,https://dx.doi.org/10.1021/acs.jmedchem.9b02153
+*c1ccc[nH]c1=O,*C1COC1=O,0.1429,[*:1][c:2]1[c:3][c][c][n][c:7]1>>[*:1][C:2]1[C:3]O[C:7]1,https://doi.org/10.1021/acs.jmedchem.1c01215
+*c1ccc[nH]c1=O,*c1ccccc1O,0.3478,[O:1]=[c:2]1[c:3][c:4][c:5][c:6][nH]1>>[O:1][c:2]1[c:3][c:4][c:5][c:6]c1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1ccc[nH]c1=O,*c1ccc[n+]([O-])c1,0.2414,[O:1]=[c:2]1[c:3][c:4][c:5][c:6][nH:7]1>>[O-:1][n+:7]1[c:6][c:5][c:4][c:3][c:2]1,https://doi.org/10.1021/acs.jmedchem.1c01215

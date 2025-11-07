@@ -1,0 +1,9 @@
+Product_SMILES,Similarity,QED,MW_diff,TPSA_diff,SAscore,Aromatic,SMARTS_RXN,DOI
+*c1nc2nc(NC)ncc2[nH]1,0.4000,0.58,40.03,28.68,3.79,0.77,[c:5]1[c:6][n:7][c:1][n:2][c:3]1>>[c:1]1[n:2][c:3][c]2[nH:5][c:6][n:7][c]2[n]1,https://doi.org/10.1016/j.ejmech.2023.115796
+*c1cc2cnc(NC)nc2s1,0.4000,0.68,56.09,0.00,3.79,0.77,[c:1]1[n:2][c:3][n:4][c:5][c:6]1 >> [c:1]1[n:2][c:3][n:4][c]2[s][c:5][c:6][c]21,https://doi.org/10.1021/acs.jmedchem.4c00136
+*c1c(OC)c(OC)cc2cnc(NC)nc12,0.3750,0.83,110.11,18.46,3.14,0.61,[c:1]1[n:2][c:3][n:4][c:5][c:6]1 >> [c:1]1[n:2][c:3][n:4][c]2[c:5][c](-[O]-[C])[c](-[O]-[C])[c:6][c]21,https://doi.org/10.1021/acs.jmedchem.4c00136
+*c1nc(NC)nc2ccccc12,0.3714,0.67,50.06,0.00,2.95,0.79,[c:1]1[n:2][c:3][n:4][c:5][c:6]1 >> [c:1]1[n:2][c:3][n:4][c]2[c][c:5][c:6][c][c]21,https://doi.org/10.1021/acs.jmedchem.4c00136
+*c1nnc(NC)nn1,0.3571,0.48,1.98,25.78,4.22,0.67,c1[c:4][n:3][c:1][n:2]c1>>[c:1]1[n:2][n:3][c:4][n][n]1,https://doi.org/10.1021/acs.jmedchem.4c00094
+*c1nc(NC)nc2nc[nH]c12,0.3514,0.58,40.03,28.68,3.80,0.77,[c:5]1[c:6][n:7][c:1][n:2][c:3]1>>[c:1]1[n:2][c:3][c]2[nH:5][c:6][n:7][c]2[n]1,https://doi.org/10.1016/j.ejmech.2023.115796
+*c1nc(NC)nc2ccsc12,0.3514,0.68,56.09,0.00,3.58,0.77,[c:1]1[n:2][c:3][n:4][c:5][c:6]1 >> [c:1]1[n:2][c:3][n:4][c]2[c:5][c:6][s][c]21,https://doi.org/10.1021/acs.jmedchem.4c00136
+*c1nc(NC)nc2scnc12,0.3514,0.66,57.08,12.89,3.96,0.77,[*:1][c:2]1[c:3][c:4][n:5][c:6]([*:7])[n:8]1>>[*:7][c:6]1[n:8][c:2]([*:1])[c:3]2ncs[c:4]2[n:5]1,https://dx.doi.org/10.1021/acs.jmedchem.9b02153
